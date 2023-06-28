@@ -1,1 +1,7 @@
-@import "mafs/core.css";/*# sourceMappingURL=Styles.css.map */
+@import "mafs/core.css";
+body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}/*# sourceMappingURL=Styles.css.map */
