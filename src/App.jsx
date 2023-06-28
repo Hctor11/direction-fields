@@ -1,11 +1,12 @@
 import './App.css'
+import Graph from './components/Graph'
 
 function App() {
 
   return (
-    <>
-      <h1>Hola direction field</h1>
-    </>
+    <div className="App">
+      <Graph></Graph>
+    </div>
   )
 }
 
